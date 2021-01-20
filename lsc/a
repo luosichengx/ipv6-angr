@@ -1,0 +1,3 @@
+sbin/adjtimex,sbin/devmem,sbin/ifenslave,sbin/ipneigh,sbin/losetup,sbin/mkfs.minix,sbin/poweroff,sbin/setconsole,sbin/sysctl,sbin/watchdog,
+sbin/fbsplash,sbin/getty,sbin/ifup,sbin/iproute,sbin/lsmod,sbin/mkfs.vfat,sbin/slattach,sbin/syslogd,sbin/zcip,sbin/vconfig,
+sbin/blkid,sbin/fdisk,sbin/halt,sbin/init,sbin/iprule,sbin/makedevs,sbin/mkswap,sbin/reboot,sbin/start-stop-daemon,sbin/tc

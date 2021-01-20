@@ -1,0 +1,1 @@
+nohup python runn.py -d ~/busybox -fl sbin/adjtimex,sbin/devmem,sbin/ifenslave,sbin/ipneigh,sbin/losetup,sbin/mkfs.minix,sbin/poweroff,sbin/setconsole,sbin/sysctl,sbin/watchdog,sbin/fbsplash,sbin/getty,sbin/ifup,sbin/iproute,sbin/lsmod,sbin/mkfs.vfat,sbin/slattach,sbin/syslogd,sbin/zcip,sbin/vconfig >/dev/null 2>&1 &
